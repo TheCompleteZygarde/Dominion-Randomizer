@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Miscellaneous\\Programming\\Dominion Randomizer 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A37A154-41F2-40E6-95E2-A503DAA93825}|Dominion Randomizer 2\\Dominion Randomizer 2.vcxproj|C:\\Miscellaneous\\Programming\\Dominion Randomizer 2\\Dominion Randomizer 2\\Dominion Randomizer 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A37A154-41F2-40E6-95E2-A503DAA93825}|Dominion Randomizer 2\\Dominion Randomizer 2.vcxproj|solutionrelative:Dominion Randomizer 2\\Dominion Randomizer 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dominion Randomizer 2.cpp",
+              "DocumentMoniker": "C:\\Miscellaneous\\Programming\\Dominion Randomizer 2\\Dominion Randomizer 2\\Dominion Randomizer 2.cpp",
+              "RelativeDocumentMoniker": "Dominion Randomizer 2\\Dominion Randomizer 2.cpp",
+              "ToolTip": "C:\\Miscellaneous\\Programming\\Dominion Randomizer 2\\Dominion Randomizer 2\\Dominion Randomizer 2.cpp",
+              "RelativeToolTip": "Dominion Randomizer 2\\Dominion Randomizer 2.cpp",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAgwHcCAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2022-05-08T15:43:40.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

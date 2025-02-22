@@ -1,0 +1,210 @@
+Expansion	Name				types				cost	actions	cards	coins	buys	special	potion	debt
+Dominion	Adventurer			Action				6	0	0	0	0	1	0	0
+Dominion	Bureaucrat			Action, Attack			4	0	0	0	0	1	0	0
+Dominion	Cellar				Action				2	1	0	0	0	1	0	0
+Dominion	Chancellor			Action				3	0	0	2	0	1	0	0	
+Dominion	Chapel				Action				2	0	0	0	0	1	0	0
+Dominion	Council Room			Action				5	0	4	0	1	1	0	0
+Dominion	Feast				Action				4	0	0	0	0	1	0	0
+Dominion	Festival			Action				5	2	0	2	1	0	0	0
+Dominion	Laboratory			Action				5	1	2	0	0	0	0	0
+Dominion	Market				Action				5	1	1	1	1	0	0	0
+Dominion	Militia				Action, Attack			3	0	0	2	0	1	0	0
+Dominion	Mine				Action				5	0	0	0	0	1	0	0
+Dominion	Moat				Action, Reaction		2	0	2	0	0	1	0	0
+Dominion	Moneylender			Action				4	0	0	3	0	1	0	0
+Dominion	Remodel				Action				4	0	0	0	0	1	0	0
+Dominion	Smithy				Action				4	0	3	0	0	0	0	0
+Dominion	Spy				Action, Attack			4	1	1	0	0	1	0	0
+Dominion	Thief				Action, Attack			4	0	0	0	0	1	0	0
+Dominion	Throne Room			Action				4	0	0	0	0	1	0	0
+Dominion	Village				Action				3	2	1	0	0	0	0	0
+Dominion	Witch				Action, Attack			5	0	2	0	0	1	0	0
+Dominion	Woodcutter			Action				3	0	0	2	1	0	0	0
+Dominion	Workshop			Action				3	0	0	0	0	1	0	0
+Dominion	Gardens				Victory				4	0	0	0	0	1	0	0
+Intrigue	Baron				Action				4	0	0	0	1	1	0	0
+Intrigue	Bridge				Action				4	0	0	1	1	1	0	0
+Intrigue	Conspirator			Action				4	0	0	2	0	1	0	0
+Intrigue	Courtier			Action				5	0	0	0	0	1	0	0
+Intrigue	Courtyard			Action				2	0	3	0	0	1	0	0
+Intrigue	Diplomat			Action, Reaction		4	0	2	0	0	1	0	0
+Intrigue	Ironworks			Action				4	0	0	0	0	1	0	0
+Intrigue	Lurker				Action				2	1	0	0	0	1	0	0
+Intrigue	Masquerade			Action				3	0	2	0	0	1	0	0
+Intrigue	Mill				Action, Victory			4	1	1	0	0	1	0	0
+Intrigue	Mining Village			Action				4	2	1	0	0	1	0	0
+Intrigue	Minion				Action, Attack			5	1	0	0	0	1	0	0
+Intrigue	Patrol				Action				5	0	3	0	0	1	0	0
+Intrigue	Pawn				Action				2	0	0	0	0	1	0	0
+Intrigue	Replace				Action, Attack			5	0	0	0	0	1	0	0
+Intrigue	Secret Passage			Action				4	1	2	0	0	1	0	0
+Intrigue	Shanty Town			Action				3	2	0	0	0	1	0	0
+Intrigue	Steward				Action				3	0	0	0	0	1	0	0
+Intrigue	Swindler			Action, Attack			3	0	0	2	0	1	0	0
+Intrigue	Torturer			Action, Attack			5	0	3	0	0	1	0	0
+Intrigue	Trading Post			Action				5	0	0	0	0	1	0	0
+Intrigue	Upgrade				Action				5	1	1	0	0	1	0	0
+Intrigue	Wishing Well			Action				3	1	1	0	0	1	0	0
+Intrigue	Nobles				Action, Victory			6	0	0	0	0	1	0	0
+Intrigue	Harem				Treasure, Victory		6	0	0	2	0	0	0	0
+Intrigue	Duke				Victory				5	0	0	0	0	1	0	0
+Dark Ages	Altar				Action				6	0	0	0	0	1	0	0
+Dark Ages	Armory				Action				4	0	0	0	0	1	0	0
+Dark Ages	Band of Misfits			Action, Command			5	0	0	0	0	1	0	0
+Dark Ages	Bandit Camp			Action				5	2	1	0	0	1	0	0
+Dark Ages	Beggar				Action, Reaction		2	0	0	0	0	1	0	0
+Dark Ages	Catacomb			Action				5	0	0	0	0	1	0	0
+Dark Ages	Count				Action				5	0	0	0	0	1	0	0
+Dark Ages	Counterfeit			Treasure			5	0	0	1	1	1	0	0
+Dark Ages	Cultist				Action, Attack, Looter		5	0	2	0	0	1	0	0
+Dark Ages	Death Cart			Action, Looter			4	0	0	0	0	1	0	0
+Dark Ages	Feodum				Victory				4	0	0	0	0	1	0	0
+Dark Ages	Forager				Action				3	1	0	0	1	1	0	0
+Dark Ages	Fortress			Action				4	2	1	0	0	0	0	0
+Dark Ages	Graverobber			Action				5	0	0	0	0	1	0	0
+Dark Ages	Hermit				Action				3	0	0	0	0	1	0	0
+Dark Ages	Hunting Grounds			Action				6	0	4	0	0	0	0	0
+Dark Ages	Ironmonger			Action				4	1	1	0	0	1	0	0
+Dark Ages	Junk Dealer			Action				5	1	1	1	0	1	0	0
+Dark Ages	Marauder			Action, Attack, Looter		4	0	0	0	0	1	0	0
+Dark Ages	Market Square			Action, Reaction		3	1	1	0	1	0	0	0
+Dark Ages	Mystic				Action				5	1	0	2	0	1	0	0
+Dark Ages	Pillage				Action, Attack			5	0	0	0	0	1	0	0
+Dark Ages	Poor House			Action				1	0	0	4	0	1	0	0
+Dark Ages	Procession			Action				4	0	0	0	0	1	0	0
+Dark Ages	Rats				Action				4	1	1	0	0	1	0	0
+Dark Ages	Rebuild				Action				5	1	0	0	0	1	0	0
+Dark Ages	Rogue				Action, Attack			5	0	0	2	0	1	0	0
+Dark Ages	Sage				Action				3	1	0	0	0	1	0	0
+Dark Ages	Scavenger			Action				4	0	0	2	0	1	0	0
+Dark Ages	Squire				Action				2	0	0	1	0	1	0	0
+Dark Ages	Storeroom			Action				3	0	0	0	1	1	0	0
+Dark Ages	Urchin				Action, Attack			3	1	1	0	0	1	0	0
+Dark Ages	Vagrant				Action				2	1	1	0	0	1	0	0
+Dark Ages	Wandering Minstrel		Action				4	2	1	0	0	1	0	0
+Dark Ages	Knights				Action, Attack, Knight		5	0	0	0	0	1	0	0
+Alchemy		Alchemist			Action				3	1	2	0	0	1	1	0
+Alchemy		Apothecary			Action				2	1	1	0	0	1	1	0
+Alchemy		Apprentice			Action				5	1	0	0	0	1	0	0
+Alchemy		Familiar			Action, Attack			3	1	0	0	0	1	1	0
+Alchemy		Golem				Action				4	0	0	0	0	1	1	0
+Alchemy		Herbalist			Action				2	0	0	1	1	1	0	0
+Alchemy		Philosopher's Stone		Treasure			3	0	0	0	0	1	1	0
+Alchemy		Possession			Action				6	0	0	0	0	1	1	0
+Alchemy		Scrying Pool			Action, Attack			2	1	0	0	0	1	1	0
+Alchemy		Transmute			Action				0	0	0	0	0	1	1	0
+Alchemy		University			Action				2	2	0	0	0	1	1	0
+Alchemy		Vineyard			Victory				0	0	0	0	0	1	1	0
+Adventures	Amulet				Action, Duration		3	0	0	0	0	1	0	0
+Adventures	Artificer			Action				5	1	1	1	0	1	0	0
+Adventures	Bridge Troll			Action, Duration, Attack	5	0	0	0	1	1	0	0
+Adventures	Caravan Guard			Action, Duration, Rection	3	1	1	0	0	1	0	0
+Adventures	Coin of the Realm		Treasure, Reserve		2	0	0	1	0	1	0	0
+Adventures	Distant Lands			Action, Reserve, Victory	5	0	0	0	0	1	0	0
+Adventures	Dungeon				Action, Duration		3	1	2	0	0	1	0	0
+Adventures	Duplicate			Action, Reserve			4	0	0	0	0	1	0	0
+Adventures	Gear				Action, Duration		3	0	2	0	0	1	0	0
+Adventures	Giant				Action, Attack			5	0	0	0	0	1	0	0
+Adventures	Guide				Action, Reserve			3	1	1	0	0	1	0	0
+Adventures	Haunted Woods			Action, Duration, Attack	5	0	0	0	0	1	0	0
+Adventures	Hireling			Action, Duration		6	0	0	0	0	1	0	0
+Adventures	Lost City			Action				5	2	2	0	0	0	0	0
+Adventures	Magpie				Action				4	1	1	0	0	1	0	0
+Adventures	Messenger			Action				4	0	0	2	1	1	0	0
+Adventures	Miser				Action				4	0	0	0	0	1	0	0
+Adventures	Port				Action				4	2	1	0	0	0	0	0
+Adventures	Ranger				Action				4	0	0	0	1	1	0	0
+Adventures	Ratcatcher			Action, Reserve			2	1	1	0	0	1	0	0
+Adventures	Raze				Action				2	1	0	0	0	1	0	0
+Adventures	Relic				Treasure, Attack		5	0	0	2	0	1	0	0
+Adventures	Royal Carriage			Action, Reserve			5	1	0	0	0	1	0	0
+Adventures	Storyteller			Action				5	1	0	1	0	1	0	0
+Adventures	Swamp Hag			Action, Duration, Attack	5	0	0	0	0	1	0	0
+Adventures	Transmogrify			Action, Reserve			4	1	0	0	0	1	0	0
+Adventures	Treasure Trove			Treasure			5	0	0	2	0	1	0	0
+Adventures	Wine Merchant			Action, Reserve			5	0	0	4	1	1	0	0
+Adventures	Page + upgrades			Action, Traveller		2	1	1	0	0	0	0	0
+Adventures	Peasant + upgrades		Action, Traveller		2	0	0	1	1	0	0	0
+Empires		Archive				Action, Duration		5	1	0	0	0	1	0	0
+Empires		Capital				Treasure			5	0	0	6	1	1	0	0
+Empires		Catapult/Rocks			Action, Attack			3	0	0	1	0	1	0	0
+Empires		Chariot Race			Action				3	1	0	0	0	1	0	0
+Empires		Charm				Treasure			5	0	0	0	0	1	0	0
+Empires		City Quarter			Action				0	2	0	0	0	1	0	8
+Empires		Crown				Action, Treasure		5	0	0	0	0	1	0	0
+Empires		Encampment/Plunder		Action				2	2	2	0	0	1	0	0
+Empires		Enchantress			Action, Duration, Attack	3	0	0	0	0	1	0	0
+Empires		Engineer			Action				0	0	0	0	0	1	0	4
+Empires		Farmers' Market			Action, Gathering		3	0	0	0	1	1	0	0
+Empires		Forum				Action				5	1	3	0	0	1	0	0
+Empires		Gladiator/Fortune		Action				3	0	0	2	0	1	0	0
+Empires		Groundskeeper			Action				5	1	1	0	0	1	0	0
+Empires		Legionary			Action, Attack			5	0	0	3	0	1	0	0
+Empires		Royal Blacksmith		Action				0	0	5	0	0	1	0	8
+Empires		Overlord			Action, Command			0	0	0	0	0	1	0	8
+Empires		Patrician/Emporium		Action				2	1	1	0	0	1	0	0
+Empires		Sacrifice			Action				4	0	0	0	0	1	0	0
+Empires		Settlers/Bustling Village	Action				2	1	1	0	0	1	0	0
+Empires		Temple				Action, Gathering		4	0	0	0	0	1	0	0
+Empires		Villa				Action				4	2	0	1	1	1	0	0
+Empires		Wild Hunt			Action, Gathering		5	0	0	0	0	1	0	0
+Empires		Castles				Victory, Castle			3	0	0	0	0	1	0	0
+Nocturne	Bard				Action, Fate			4	0	0	2	0	1	0	0
+Nocturne	Blessed Village			Action, Fate			4	2	1	0	0	1	0	0
+Nocturne	Cemetery			Victory				4	0	0	0	0	1	0	0
+Nocturne	Changeling			Night				3	0	0	0	0	1	0	0
+Nocturne	Cobbler				Night, Duration			5	0	0	0	0	1	0	0
+Nocturne	Conclave			Action				4	0	0	2	0	1	0	0
+Nocturne	Crypt				Night, Duration			5	0	0	0	0	1	0	0
+Nocturne	Cursed Village			Action, Doom			5	2	0	0	0	1	0	0
+Nocturne	Den of Sin			Night, Duration			5	0	0	0	0	1	0	0
+Nocturne	Devil's Workshop		Night				4	0	0	0	0	1	0	0
+Nocturne	Druid				Action, Fate			2	0	0	0	1	1	0	0
+Nocturne	Exorcist			Night				4	0	0	0	0	1	0	0
+Nocturne	Faithful Hound			Action, Reaction		2	0	2	0	0	1	0	0
+Nocturne	Fool				Action, Fate			3	0	0	0	0	1	0	0
+Nocturne	Ghost Town			Night, Duration			3	0	0	0	0	1	0	0
+Nocturne	Guardian			Night, Duration			2	0	0	0	0	1	0	0
+Nocturne	Idol				Treasure, Attack, Fate		5	0	0	2	0	1	0	0
+Nocturne	Leprechaun			Action, Doom			3	0	0	0	0	1	0	0
+Nocturne	Monastery			Night				2	0	0	0	0	1	0	0
+Nocturne	Necromancer			Action				4	0	0	0	0	1	0	0
+Nocturne	Night Watchman			Night				3	0	0	0	0	1	0	0
+Nocturne	Pixie				Action, Fate			2	1	1	0	0	1	0	0
+Nocturne	Pooka				Action				5	0	0	0	0	1	0	0
+Nocturne	Raider				Night, Duration, Attack		6	0	0	0	0	1	0	0
+Nocturne	Sacred Grove			Action, Fate			5	0	0	3	1	1	0	0
+Nocturne	Secret Cave			Action, Duration		3	1	1	0	0	1	0	0
+Nocturne	Shepherd			Action				4	1	0	0	0	1	0	0
+Nocturne	Skulk				Action, Attack, Doom		4	0	0	0	1	1	0	0
+Nocturne	Tormentor			Action, Attack, Doom		5	0	0	2	0	1	0	0
+Nocturne	Tracker				Action, Fate			2	0	0	1	0	1	0	0
+Nocturne	Tragic Hero			Action				5	0	3	0	1	1	0	0
+Nocturne	Vampire				Night, Attack, Doom		5	0	0	0	0	1	0	0
+Nocturne	Werewolf			Action, Night, Attack, Doom	5	0	0	0	0	1	0	0
+Rising Sun	Alley				Action, Shadow			4	1	1	0	0	1	0	0
+Rising Sun	Aristocrat			Action				3	0	0	0	0	1	0	0
+Rising Sun	Artist				Action				0	1	0	0	0	1	0	8
+Rising Sun	Change				Action				4	0	0	0	0	1	0	0
+Rising Sun	Craftsman			Action				3	0	0	0	0	1	0	0
+Rising Sun	Daimyo				Action, Command			0	1	1	0	0	1	0	6
+Rising Sun	Fishmonger			Action, Shadow			2	0	0	1	1	1	0	0
+Rising Sun	Gold Mine			Action				5	1	1	0	1	1	0	0
+Rising Sun	Imperial Envoy			Action				5	0	5	0	1	1	0	0
+Rising Sun	Kitsune				Action, Attack, Omen		5	0	0	0	0	1	0	0
+Rising Sun	Litter				Action				5	2	2	0	0	0	0	0
+Rising Sun	Mountain Shrine			Action, Omen			0	0	0	2	0	1	0	5
+Rising Sun	Ninja				Action, Attack, Shadow		4	0	1	0	0	1	0	0
+Rising Sun	Poet				Action, Omen			4	1	1	0	0	1	0	0
+Rising Sun	Rice				Treasure			7	0	0	0	1	1	0	0
+Rising Sun	Rice Broker			Action				5	1	0	0	0	1	0	0
+Rising Sun	River Shrine			Action, Omen			4	0	0	0	0	1	0	0
+Rising Sun	Riverboat			Action, Duration		3	0	0	0	0	1	0	0
+Rising Sun	Ronin				Action, Shadow			5	0	0	0	0	1	0	0
+Rising Sun	Root Cellar			Action				3	1	3	0	0	0	0	0
+Rising Sun	Rustic Village			Action, Omen			4	2	1	0	0	1	0	0
+Rising Sun	Samurai				Action, Duration, Attack	6	0	0	0	0	1	0	0
+Rising Sun	Snake Witch			Action, Attack			2	1	1	0	0	1	0	0
+Rising Sun	Tanuki				Action, Shadow			5	0	0	0	0	1	0	0
+Rising Sun	Tea House			Action, Omen			5	1	1	2	0	0	0	0

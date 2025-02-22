@@ -1,0 +1,26 @@
+﻿  Dominion Randomizer 2.cpp
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(82,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(299,21): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(306,21): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(312,21): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(318,21): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(323,21): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(328,21): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(333,21): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(338,21): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(343,21): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(348,21): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(353,21): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(382,31): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(387,17): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(546,32): warning C4018: '>': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(558,31): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(563,17): warning C4018: '<': signed/unsigned mismatch
+C:\Miscellaneous\Programming\Dominion Randomizer 2\Dominion Randomizer 2\Dominion Randomizer 2.cpp(830,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 640 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Dominion Randomizer 2.vcxproj -> C:\Miscellaneous\Programming\Dominion Randomizer 2\Release\Dominion Randomizer 2.exe
