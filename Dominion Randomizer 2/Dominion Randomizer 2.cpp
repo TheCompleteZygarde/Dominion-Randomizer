@@ -418,7 +418,7 @@ void setList(array<vector<card>, expansionsOwned>& expansions)
     theDeck.close();
 
     //Debug code:
-    cout << expansions[2][34].name << endl << expansions[2][34].expansion << endl << expansions[2][34].types << endl << expansions[2][34].cost << endl << expansions[2][34].actions << endl << expansions[2][34].cards << endl << expansions[2][34].coins << endl << expansions[2][34].buys << endl << expansions[2][34].debt << endl << expansions[2][34].potion << endl << expansions[2][34].special << endl << expansions[2][34].sorting << endl;
+    //cout << expansions[2][34].name << endl << expansions[2][34].expansion << endl << expansions[2][34].types << endl << expansions[2][34].cost << endl << expansions[2][34].actions << endl << expansions[2][34].cards << endl << expansions[2][34].coins << endl << expansions[2][34].buys << endl << expansions[2][34].debt << endl << expansions[2][34].potion << endl << expansions[2][34].special << endl << expansions[2][34].sorting << endl;
 }
 
 void randomExpansions(vector<int>& expansionsUsed) {
